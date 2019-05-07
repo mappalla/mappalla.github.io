@@ -5,7 +5,7 @@
 
 
 .headerImage{
-    height: 350px;
+    height: 400px;
     background-image:url(handwash5.jpg);
     background-size: cover;
     
@@ -14,7 +14,7 @@
 
 .headerImage{
     font-size: 50px;
-    color:navy;
+    color: #0f26a8;
     text-shadow: 5PX 5PX 10PX;
     text-align: right;
     padding-left: px
@@ -22,7 +22,7 @@
 }
 
 nav{
-    background-color: #40abd6;
+    background-color: #0f26a8;
     height: auto;
   
     
